@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fe359b2-ec0f-4980-8ed8-dcc83b3f3f47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/artist/src/main/java/org/agoncal/quarkus/jdbc/model/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/artist/src/test/java/org/agoncal/quarkus/jdbc/ArtistRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/customer/src/main/resources/META-INF/panache-archive.marker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/customer/src/test/java/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/customer/src/test/java/CustomerRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/model/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/model/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/model/PurchaseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/model/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/repository/ArtistRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/resource/ArtistResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/java/org/agoncal/quarkus/panache/resource/PublisherResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/resources/META-INF/orm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/resources/templates/ItemPage/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/resources/templates/ItemPage/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/main/resources/templates/ItemPage/cd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/test/java/org/agoncal/quarkus/panache/ArtistRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/test/java/org/agoncal/quarkus/panache/CustomerRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/QDB/vintage-store/src/test/java/org/agoncal/quarkus/panache/PublisherRepoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Quarkus Microservices/rest-book/src/main/java/org/quarkus/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Quarkus Microservices/rest-book/src/main/java/org/quarkus/IsbnNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Quarkus Microservices/rest-book/src/main/resources/default_banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Quarkus Microservices/rest-book/src/test/java/org/quarkus/MockNumberProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Quarkus Microservices/rest-number/src/main/java/org/quarkus/NumberMicroservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Quarkus Microservices/rest-number/src/main/resources/default_banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/bank/src/main/java/org/acme/SavingBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/bank/src/main/java/org/acme/SavingBankDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/qkyc/src/main/java/org/quarkus/entity/Kyc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/JavaBrains/CheckCapitalLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/JavaBrains/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/JavaBrains/LongestSubstringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/JavaBrains/QueueDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/JavaBrains/ReverseUsingStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/JavaBrains/StringSemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/JavaBrains/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/JavaBrains/TargetSumComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/JavaBrains/TwoSumNlogn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/Strings/HashMapp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/Strings/ReverseTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/Strings/ReverseWords2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/Strings/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/Strings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/Strings/SplitStringONCaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/arrays/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/arrays/MaximumProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/arrays/MaximumProfitComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/arrays/MoveZeroComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/arrays/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/arrays/SingleNumberExOr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/arrays/SortArrayOneSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/comparable/AgeCmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/comparable/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/comparable/EmployeeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/comparable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/comparable/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/comparator/IdComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/comparator/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/designPatterns/Factory/ClothFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/designPatterns/Factory/IceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/designPatterns/Factory/ToolFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/designPatterns/Singleton/DoubleLockedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/designPatterns/Singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/designPatterns/Singleton/SingleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/dsa/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/emp/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/groupBy/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/groupBy/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/groupBy/SecondHighestAndLowest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/groupBy/SkipLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/groupBy/StartWithLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/Atm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/CountDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/CountSpecialCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/DeleteAEntryInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/DuplicatesInArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/DuplicatewithoutCollection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/ExtractFirstLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/FirstSecondThirdHighest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/LongestSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/MergeSortedArrayComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/MissingElementArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/NoVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/PasswordStrength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/RemoveParticularChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/SortArrayNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/SpeicalRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/UpperLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/interviewQuestions/evenoddOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/lambda/ArralstDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/lambda/ArrayLst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/lambda/CustumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/lambda/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/lambda/GradeAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/lambda/HashMapCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/lambda/LambdaExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/lambda/ReduceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/masteringPro/DuplicateInArrayWithTimeCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/masteringPro/DuplicateInArrayWithTimeCom3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/masteringPro/LongestCommanPrefix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/masteringPro/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/masteringPro/LongestPalindromeComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/masteringPro/LongestPalindromeMadeFromLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/masteringPro/RemoveDupAndGiveCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/maxmin/Maximun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/myinfo/ClsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sadu/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sadu/EmpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sadu/EvenOddN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sadu/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sadu/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sadu/RecursionFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sadu/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sadu/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sortingtechnique/MergeSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/sortingtechnique/MergeSortedListWithSameArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/DemoPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/Freq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/FrequencyCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/FrequencyCount2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/Java1Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/Java2Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/Java3Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/Java4Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/Java5Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/Java6Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/JavaThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/LastMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/MultiThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/ReverseStrin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/ReverseVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/SortNamesByLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J8/src/threads/ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/customerpage/customerpage.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/customerpage/customerpage.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/customerpage/customerpage.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/customerpage/customerpage.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/footerform/footerform.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/footerform/footerform.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/footerform/footerform.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/footerform/footerform.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/forms/add-account/add-account.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/forms/add-account/add-account.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/forms/add-account/add-account.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/forms/add-account/add-account.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/forms/update-customer-form/update-customer-form.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/forms/update-customer-form/update-customer-form.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/forms/update-customer-form/update-customer-form.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/forms/update-customer-form/update-customer-form.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/headerform/headerform.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/headerform/headerform.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/headerform/headerform.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/headerform/headerform.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/kybdetails-page/kybdetails-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/kybdetails-page/kybdetails-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/kybdetails-page/kybdetails-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/kybdetails-page/kybdetails-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/kyc-page/kycpage.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/kyc-page/kycpage.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/kyc-page/kycpage.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/kyc-page/kycpage.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/login-page/login-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/login-page/login-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/login-page/login-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/login-page/login-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/model/account.model.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/model/account.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/model/customer.model.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/model/customer.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/account.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/account.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/customer.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/customer.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/kyb.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/kyb.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/kyc.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/kyc.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/metrobank.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/service/metrobank.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/signup-page/signup-page.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/signup-page/signup-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/signup-page/signup-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/signup-page/signup-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/Metrobank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/backgroundimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/metrobankimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/signup-pagetesting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/styles.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/J8/src/interviewQuestions/DaysAddSub.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2YYuDvkL75jotMeI1vYazEXilYu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/initial-commit&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ganyah/Downloads/kafka&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ganyah/Documents/java8Learning/J8/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SingleNumberExOr">
+    <configuration name="DemoPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.DemoPractice" />
+      <module name="J8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumProfitComplexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.MaximumProfitComplexity" />
+      <module name="J8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWordWithGoodTechnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ReverseWordWithGoodTechnique" />
+      <module name="J8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWords2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ReverseWords2" />
+      <module name="J8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumberExOr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SingleNumberExOr" />
+      <module name="J8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingleNumberExOr" />
+        <item itemvalue="Application.DemoPractice" />
+        <item itemvalue="Application.ReverseWordWithGoodTechnique" />
+        <item itemvalue="Application.ReverseWords2" />
+        <item itemvalue="Application.MaximumProfitComplexity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe359b2-ec0f-4980-8ed8-dcc83b3f3f47" name="Changes" comment="" />
+      <created>1700714717973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700714717973</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java888/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Main.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/lambda/LambdaExp.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/ReverseWordsExample.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/StringReverse.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/ReverseWordsInString.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/ReverseWordsInString.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/GFG.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/Solution.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/maxmin/Maximun.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/Atm.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/Anagrams.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/PossibleSubstring.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/PossibleSubstring.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/Decimal.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/Decimal.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/arrays/ArrayRotationLeft.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/arrays/ArrayRotationRight.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/Paranthesis.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/dsa/SearchElement.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/dsa/SearchElement.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/dsa/BubbleSort.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/SortArrayNames.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/SortArrayNames.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/ExtractFirstLetter.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/interviewQuestions/NextGreaterElement.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/JavaBrains/LongestSubstringPalindrome.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/masteringPro/LongestCommonPrefix.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/JavaBrains/Demo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/masteringPro/LongestCommanPrefix2.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/masteringPro/DuplicateInArrayWithTimeCom.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/Target.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/Target.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/Target.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/Target.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/Target.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/leetpractice/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/leetpractice/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/leetpractice/Solution.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/LongestPalindrome.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/LongestPalindrome.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/LongestPalindrome.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/LongestPalindrome.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/LastMissing.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/FrequencyCount.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/FrequencyCount.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/FrequencyCount.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/FrequencyCount2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/masteringPro/LongestPalindromeComplexity.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/masteringPro/RemoveDupAndGiveCount.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/FindMissingNumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/ReverseVowels.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/ReverseVowels.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/JavaBrains/TwoSumNlogn.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/JavaBrains/ThreeSum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/FourSum.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/FourSum.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/GFG.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/GFG.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/threads/GFG.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/masteringPro/ValidPalindromeWithOneRemove.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/arrays/MoveZero.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/arrays/MoveZeroComplexity.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/arrays/SearchInsertPosition.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/arrays/SearchInsertPosition.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/arrays/SearchInsertPositionComplexity.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/arrays/SearchInsertPositionComplexity.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/sortingtechnique/MergeSortedList.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/sortingtechnique/MergeSortedList.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/sortingtechnique/MergeSortedList.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/sortingtechnique/SelectionSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/ReverseWords2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/ReverseWords2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/J8/src/Strings/ReverseWordWithGoodTechnique.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/J8/src/threads/LongestPalindrome.java</url>
+          <line>19</line>
+          <properties class="threads.LongestPalindrome" method="palindrome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java8Learning$GFG.ic" NAME="GFG Coverage Results" MODIFIED="1701673177898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Strings.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¹€£„øÿÿÿÿ8Õ—¿Ý¿1
+G	java:S106"+Replace this use of System.out by a logger.(©ã«å8®ÊºÝ¿1
+L	java:S106"+Replace this use of System.out by a logger.(¹€£„øÿÿÿÿ8°ÊºÝ¿1
+G	java:S106"+Replace this use of System.out by a logger.(òÔÇÍ8°ÊºÝ¿1
+X	java:S125"<This block of commented-out lines of code should be removed.(ß÷š¶8±ÊºÝ¿1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(æ´ž´8±ÊºÝ¿1
+G	java:S106"+Replace this use of System.out by a logger.(æ´ž´8±ÊºÝ¿1
+L	java:S106"+Replace this use of System.out by a logger.(ÓòÒÓúÿÿÿÿ8±ÊºÝ¿1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÓòÒÓúÿÿÿÿ8±ÊºÝ¿1
+G	java:S106"+Replace this use of System.out by a logger.(ÎÉ­»8²ÊºÝ¿1
+G	java:S106"+Replace this use of System.out by a logger.(üõóÿ8²ÊºÝ¿1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(üõóÿ8²ÊºÝ¿1
